@@ -1,0 +1,7 @@
+-*-   ENC Lister   *   (c) Gazlan, 2017   -*-
+
+SorEditor ENC Lister
+
+Usage: enc_lister.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru

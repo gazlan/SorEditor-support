@@ -1,0 +1,7 @@
+-*-   ENC-2-SOR  1.0   *   (c) Gazlan, 2017   -*-
+
+SorEditor ENC-2-SOR converter
+
+Usage: enc2sor.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru

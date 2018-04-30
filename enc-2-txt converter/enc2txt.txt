@@ -1,0 +1,7 @@
+-*-   ENC-2-TXT  1.0   *   (c) Gazlan, 2017   -*-
+
+SorEditor ENC-2-TXT converter
+
+Usage: enc2txt.com text.txt
+
+complains_n_suggestions direct to gazlan@yandex.ru
